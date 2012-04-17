@@ -1,0 +1,5 @@
+Obj=ground
+Name=Outside
+# hangtyp * animation
+Image[0][0]=texturen.1.5
+

@@ -1,0 +1,17 @@
+Obj=building
+Name= Powerbeam-depot
+Type=depot
+waytype=maglev_track
+intro_year=1
+Build_Time=0
+NoConstruction=1
+needs_ground=1
+dims=1,1,4
+BackImage[0][0][0][0][0][0]=pb_depot.0.1
+BackImage[1][0][0][0][0][0]=pb_depot.0.0
+FrontImage[2][0][0][0][0][0]=pb_depot.1.0
+FrontImage[3][0][0][0][0][0]=pb_depot.1.1
+FrontImage[0][0][0][0][0][0]=pb_depot.3.1
+FrontImage[1][0][0][0][0][0]=pb_depot.3.0
+icon=> pb_depot.2.0
+cursor=pb_depot.2.1

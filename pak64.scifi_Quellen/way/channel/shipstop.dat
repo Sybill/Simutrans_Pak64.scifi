@@ -1,0 +1,18 @@
+Obj=building
+Name=shipstop
+type=stop
+waytype=water
+NoInfo=1
+NoConstruction=1
+enables_pax=1
+enables_post=1
+icon=> shipstop.2.0
+cursor=shipstop.2.1
+level=1
+intro_year=1
+Dims=1,1,2
+BackImage[0][0][0][0][0][0]=shipstop.0.0
+BackImage[1][0][0][0][0][0]=shipstop.0.1
+BackImage[0][0][0][0][0][1]=shipstop.1.0
+BackImage[1][0][0][0][0][1]=shipstop.1.1
+

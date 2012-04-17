@@ -1,0 +1,11 @@
+obj=building
+name=com_02
+copyright=Sybill
+intro_year=1
+type=com
+level=2
+chance=50
+needs_ground=0
+BackImage[0][0][0][0][0][0]=com_02.0.0
+BackImage[0][0][0][0][0][1]=com_02.0.1
+

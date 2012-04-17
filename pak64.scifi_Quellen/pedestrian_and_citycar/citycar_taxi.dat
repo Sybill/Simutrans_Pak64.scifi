@@ -1,0 +1,14 @@
+obj=citycar
+name=robotaxi
+copyright=Sybill
+intro_year=1
+DistributionWeight=10
+speed=50
+EmptyImage[S]=citycar_taxi.0.0	
+EmptyImage[E]=citycar_taxi.0.2
+EmptyImage[SE]=citycar_taxi.0.4 	
+EmptyImage[SW]=citycar_taxi.0.7 	
+EmptyImage[N]=citycar_taxi.0.1
+EmptyImage[W]=citycar_taxi.0.3 	
+EmptyImage[NW]=citycar_taxi.0.5
+EmptyImage[NE]=citycar_taxi.0.6

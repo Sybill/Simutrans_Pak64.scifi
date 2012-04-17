@@ -1,0 +1,13 @@
+obj=building
+name=Embassy of Arkon
+copyright=Sybill
+intro_year=1
+type=cur
+level=12
+chance=100
+build_time=150
+needs_ground=1
+climates=desert,tropic,mediterran,temperate
+BackImage[0][0][0][0][0]=arkon_embassy.1.0
+BackImage[0][0][0][1][0]=arkon_embassy.0.0
+

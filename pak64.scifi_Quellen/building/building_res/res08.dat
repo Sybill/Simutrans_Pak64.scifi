@@ -1,0 +1,12 @@
+obj=building
+name=res_08
+copyright=Sybill
+intro_year=1
+type=res
+level=8
+chance=100
+needs_ground=0
+BackImage[0][0][0][0][0][0]=res_08.1.0
+BackImage[0][0][0][0][0][1]=res_08.1.1
+BackImage[0][0][0][1][0][0]=res_08.0.0
+BackImage[0][0][0][1][0][1]=res_08.0.1

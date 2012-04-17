@@ -1,0 +1,24 @@
+Obj=symbol
+name=Message
+Image[0]=> symbol_system.0.0
+-----------------------
+Obj=symbol
+name=MessageOptions
+Image[0]=> symbol_system.0.3
+-----------------------
+Obj=symbol
+name=networksym
+Image[0]=> symbol_system.1.0
+-----------------------
+Obj=symbol
+name=timelinesym
+Image[0]=> symbol_system.1.1
+-----------------------
+Obj=symbol
+name=fastforwardsym
+Image[0]=> symbol_system.1.2
+-----------------------
+Obj=symbol
+name=pausesym
+Image[0]=> symbol_system.1.3
+----------------------- 

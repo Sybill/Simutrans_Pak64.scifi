@@ -1,0 +1,45 @@
+obj=building
+name=small waiting hall
+type=extension
+copyright=Sybill
+intro_year=1
+noinfo=1
+noconstruction=1
+level=3
+enables_pax=1
+needs_ground=0
+icon=> wartehalle.0.2
+cursor=wartehalle.3.2
+BackImage[0][0][0][0][0][0]=wartehalle.0.0
+BackImage[0][0][0][0][0][1]=wartehalle.0.1
+----------------------------------
+obj=building
+name=medium waiting hall
+type=extension
+copyright=Sybill
+intro_year=1
+noinfo=1
+noconstruction=1
+level=4
+enables_pax=1
+needs_ground=0
+icon=> wartehalle.1.2
+cursor=wartehalle.3.2
+BackImage[0][0][0][0][0][0]=wartehalle.1.0
+BackImage[0][0][0][0][0][1]=wartehalle.1.1
+----------------------------------
+obj=building
+name=large waiting hall
+type=extension
+copyright=Sybill
+intro_year=1
+noinfo=1
+noconstruction=1
+level=8
+enables_pax=1
+needs_ground=0
+icon=> wartehalle.2.2
+cursor=wartehalle.3.2
+BackImage[0][0][0][0][0][0]=wartehalle.2.0
+BackImage[0][0][0][0][0][1]=wartehalle.2.1
+

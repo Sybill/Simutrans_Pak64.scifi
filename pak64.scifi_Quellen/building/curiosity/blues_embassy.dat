@@ -1,0 +1,17 @@
+obj=building
+name=Blues Embassy 
+copyright=Sybill
+intro_year=1
+type=cur
+level=10
+chance=100
+build_time=100
+needs_ground=1
+BackImage[0][0][0][0][0][0]=blues_embassy.1.0
+BackImage[0][0][0][1][0][0]=blues_embassy.0.0
+BackImage[0][0][0][0][0][1]=blues_embassy.1.1
+BackImage[0][0][0][1][0][1]=blues_embassy.0.1
+FrontImage[0][0][0][0][0][0]=blues_embassy.2.0
+FrontImage[0][0][0][0][1][0]=blues_embassy.2.1
+FrontImage[0][0][0][0][2][0]=blues_embassy.3.0
+FrontImage[0][0][0][0][3][0]=blues_embassy.3.1

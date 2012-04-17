@@ -1,0 +1,11 @@
+obj=building
+name=res_04
+copyright=Sybill
+intro_year=1
+type=res
+level=4
+chance=100
+needs_ground=0
+BackImage[0][0][0][0][0][0]=res_04.0.0
+BackImage[0][0][0][0][0][1]=res_04.0.1
+

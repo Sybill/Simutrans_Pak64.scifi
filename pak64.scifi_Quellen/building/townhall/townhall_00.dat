@@ -1,0 +1,17 @@
+Obj=building
+Name=00_CITY
+Type=tow
+intro_year=1
+Build_Time=0
+Passengers=10
+NoConstruction=1
+needs_ground=1
+dims=1,1,2
+BackImage[0][0][0][0][0][0]=townhall_00.1.0
+BackImage[0][0][0][1][0][0]=townhall_00.0.0
+BackImage[0][0][0][0][0][1]=townhall_00.3.0
+BackImage[0][0][0][1][0][1]=townhall_00.2.0
+BackImage[1][0][0][0][0][0]=townhall_00.1.1
+BackImage[1][0][0][1][0][0]=townhall_00.0.1
+BackImage[1][0][0][0][0][1]=townhall_00.3.1
+BackImage[1][0][0][1][0][1]=townhall_00.2.1

@@ -1,0 +1,39 @@
+Obj=pedestrian
+Name=Humanoid 01
+copyright=Sybill
+DistributionWeight=8
+Image[S]=fussgaenger_01.0.0
+Image[E]=fussgaenger_01.0.2
+Image[SE]=fussgaenger_01.0.4
+Image[SW]=fussgaenger_01.0.7
+Image[N]=fussgaenger_01.0.1
+Image[W]=fussgaenger_01.0.3
+Image[NW]=fussgaenger_01.0.5
+Image[NE]=fussgaenger_01.0.6
+------------------------
+Obj=pedestrian
+Name=Humanoid 02
+copyright=Sybill
+DistributionWeight=8
+Image[S]=fussgaenger_02.0.0
+Image[E]=fussgaenger_02.0.2
+Image[SE]=fussgaenger_02.0.4
+Image[SW]=fussgaenger_02.0.7
+Image[N]=fussgaenger_02.0.1
+Image[W]=fussgaenger_02.0.3
+Image[NW]=fussgaenger_02.0.5
+Image[NE]=fussgaenger_02.0.6
+------------------------
+Obj=pedestrian
+Name=Humanoid 03
+copyright=Sybill
+DistributionWeight=8
+Image[S]=fussgaenger_03.0.0
+Image[E]=fussgaenger_03.0.2
+Image[SE]=fussgaenger_03.0.4
+Image[SW]=fussgaenger_03.0.7
+Image[N]=fussgaenger_03.0.1
+Image[W]=fussgaenger_03.0.3
+Image[NW]=fussgaenger_03.0.5
+Image[NE]=fussgaenger_03.0.6
+------------------------

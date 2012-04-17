@@ -1,0 +1,26 @@
+Obj=ground
+Name=ClimateTexture
+# water 
+# Wasser
+Image[0][0]=texturen.0.0
+# beach/desert 
+# Strand/Wüste
+Image[1][0]=texturen.0.1
+# tropic - Tropen
+Image[2][0]=texturen.0.2
+# mediterran 
+# Mittelmeerklima
+Image[3][0]=texturen.0.3
+# temperate grass 
+# gemäßigtes Klima
+Image[4][0]=texturen.0.4
+# tundra 
+# Tundra
+Image[5][0]=texturen.0.5
+# rocky/barren 
+# Alpines Klima/Bergklima
+Image[6][0]=texturen.0.6
+# snow 
+# Schnee
+Image[7][0]=texturen.0.7
+

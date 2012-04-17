@@ -1,0 +1,10 @@
+Obj=ground
+Name=Fence
+# Natural fence
+Image[0][0]=fence.0.0
+Image[1][0]=fence.0.1
+Image[2][0]=fence.0.2
+#building fence
+Image[3][0]=fence.1.0
+Image[4][0]=fence.1.1
+Image[5][0]=fence.1.2

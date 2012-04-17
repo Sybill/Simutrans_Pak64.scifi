@@ -1,0 +1,12 @@
+Obj=ground
+Name=Borders
+# backpart (obtained by (hang&1)|((hang&12)>>1)
+Image[0][0]=borders.0.6
+Image[1][0]=borders.0.2
+Image[2][0]=borders.0.3
+Image[3][0]=borders.0.4
+Image[4][0]=borders.0.5
+Image[5][0]=borders.0.1
+Image[6][0]=borders.0.0
+Image[7][0]=borders.0.7
+

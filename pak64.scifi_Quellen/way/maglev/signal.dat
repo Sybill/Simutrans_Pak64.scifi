@@ -1,0 +1,18 @@
+Obj=roadsign
+Name=Signals
+copyright=Sybill	
+waytype=maglev_track
+intro_year=1
+cost=1500
+is_signal=1
+Icon=> signal.0.8
+Cursor=signal.0.9
+Image[0]=signal.0.0
+Image[1]=signal.0.2
+Image[2]=signal.0.4
+Image[3]=signal.0.6
+Image[4]=signal.0.1
+Image[5]=signal.0.3
+Image[6]=signal.0.5
+Image[7]=signal.0.7
+

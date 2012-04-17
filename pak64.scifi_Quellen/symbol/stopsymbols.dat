@@ -1,0 +1,27 @@
+Obj=symbol
+name=CarStop
+Image[0]=> stop_symbols.0.0
+-----------------------
+Obj=symbol
+name=TrainStop
+Image[0]=> stop_symbols.0.1
+-----------------------
+Obj=symbol
+name=BusStop
+Image[0]=> stop_symbols.0.2
+-----------------------
+Obj=symbol
+name=ShipStop
+Image[0]=> stop_symbols.0.3
+-----------------------
+Obj=symbol
+name=AirStop
+Image[0]=> stop_symbols.0.4
+-----------------------
+Obj=symbol
+name=MaglevStop
+Image[0]=> stop_symbols.0.5
+-----------------------
+Obj=symbol
+name=TramStop
+Image[0]=> stop_symbols.0.6

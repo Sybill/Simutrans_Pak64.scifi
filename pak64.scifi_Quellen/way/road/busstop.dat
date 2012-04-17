@@ -1,0 +1,16 @@
+Obj=building
+Name=Busstop
+type=stop
+waytype=road
+intro_year=1
+noconstruction=1
+enables_pax=1
+NoInfo=1
+Dims=1,1,2
+level=1
+BackImage[0][0][0][0][0][0]=busstop.0.0
+FrontImage[0][0][0][0][0][0]=busstop.0.2
+BackImage[1][0][0][0][0][0]=busstop.0.1
+FrontImage[1][0][0][0][0][0]=busstop.0.3
+icon=> busstop.0.4
+cursor=busstop.0.5

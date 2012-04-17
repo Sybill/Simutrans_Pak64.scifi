@@ -1,0 +1,50 @@
+Obj=symbol
+name=Flags
+Image[0]=> flaggen.0.0
+-----------------------
+Obj=symbol
+name=Seasons
+Image[3]=> seasons.0.0
+Image[0]=> seasons.0.1
+Image[1]=> seasons.0.2
+Image[2]=> seasons.0.3
+-----------------------
+Obj=symbol
+name=Passagiere
+Image[0]=> waren.0.0
+-----------------------
+Obj=symbol
+name=Post
+Image[0]=> waren.0.1
+-----------------------
+Obj=symbol
+name=Waren
+Image[0]=> waren.0.2
+-----------------------
+Obj=symbol
+name=NewYear
+Image[0]=> newyear.0.0
+-----------------------
+Obj=symbol
+name=ColorOptions
+Image[0]=> farbwahl.0.0
+-----------------------
+Obj=symbol
+name=NewWorld
+Image[0]=> neue_welt.0.0
+-----------------------
+Obj=symbol
+name=Logo
+Image[0]=> logo.0.0
+-----------------------
+Obj=symbol
+name=Builder
+Image[0]=> symbol_builder.0.0
+-----------------------
+Obj=symbol
+name=InTown
+Image[0]=> symbol_in_town.0.0
+-----------------------
+Obj=symbol
+name=Electricity
+Image[0]=> symbol_electricity.0.0

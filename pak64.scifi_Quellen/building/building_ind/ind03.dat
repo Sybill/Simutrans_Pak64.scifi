@@ -1,0 +1,12 @@
+Obj=building
+Name=ind_03
+copyright=Sybill
+type=ind
+chance=100
+level=3
+intro_year=1
+needs_ground=0
+BackImage[0][0][0][0][0][0]=ind_03.1.0
+BackImage[0][0][0][1][0][0]=ind_03.0.0
+BackImage[0][0][0][0][0][1]=ind_03.1.1
+BackImage[0][0][0][1][0][1]=ind_03.0.1

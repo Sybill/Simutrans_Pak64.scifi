@@ -1,0 +1,11 @@
+Obj=building
+name=Shrike Memorial
+copyright=Sybill
+intro_year=1
+level=200
+needs_ground=0
+type=mon
+chance=100
+build-time=300
+Backimage[0][0][0][0][0]=shrike.1.0
+Backimage[0][0][0][1][0]=shrike.0.0
