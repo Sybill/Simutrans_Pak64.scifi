@@ -1,0 +1,17 @@
+Obj=building
+Name=Tube Rail Station
+type=stop
+waytype=track
+intro_year=1
+noconstruction=1
+enables_pax=1
+NoInfo=1
+Dims=1,1,2
+level=1
+draw_as_ding=0
+BackImage[0][0][0][0][0][0]=t_station.0.1
+BackImage[1][0][0][0][0][0]=t_station.0.0
+FrontImage[0][0][0][0][0][0]=t_station.1.1
+FrontImage[1][0][0][0][0][0]=t_station.1.0
+icon=> t_station.2.0
+cursor=t_station.2.1

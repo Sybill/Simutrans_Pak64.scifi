@@ -1,0 +1,12 @@
+Obj=building
+Name=ind_04
+copyright=Sybill
+type=ind
+chance=100
+level=4
+intro_year=1
+needs_ground=0
+BackImage[0][0][0][0][0][0]=coil.1.0
+BackImage[0][0][0][1][0][0]=coil.0.0
+BackImage[0][0][0][0][0][1]=coil.1.1
+BackImage[0][0][0][1][0][1]=coil.0.1

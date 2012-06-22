@@ -1,0 +1,23 @@
+obj=vehicle
+name=tube waggon
+copyright=Sybill
+intro_year=1
+draw_as_ding=1
+runningcost=30
+cost=50000
+weight=10
+speed=180
+waytype=track
+freight=Passagiere
+payload=22
+length=4
+EmptyImage[S]=tube_waggon.0.0
+EmptyImage[E]=tube_waggon.0.1 	
+EmptyImage[SE]=tube_waggon.0.2 	
+EmptyImage[SW]=tube_waggon.0.3
+EmptyImage[N]=tube_waggon.0.4
+EmptyImage[W]=tube_waggon.0.5
+EmptyImage[NW]=tube_waggon.0.6	
+EmptyImage[NE]=tube_waggon.0.7
+
+
