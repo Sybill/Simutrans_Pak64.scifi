@@ -1,0 +1,17 @@
+Obj=roadsign
+Name=tube_signal
+copyright=Sybill
+waytype=track
+intro_year=1
+cost=1000
+is_signal=1
+Icon=> tube_signal.2.2
+Cursor=tube_signal.2.3
+Image[0]=tube_signal.0.0
+Image[1]=tube_signal.1.0
+Image[2]=tube_signal.0.1
+Image[3]=tube_signal.1.1
+Image[4]=tube_signal.0.2
+Image[5]=tube_signal.1.2
+Image[6]=tube_signal.0.3
+Image[7]=tube_signal.1.3

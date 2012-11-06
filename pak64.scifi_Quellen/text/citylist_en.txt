@@ -7,6 +7,7 @@ Baretus
 Bartertown
 Bestine
 B'Hala
+Blerontis
 Bohrt
 Cala
 Carthag
@@ -20,7 +21,10 @@ Couhrs-Yot
 Dabrifala
 Dar-es-Balat
 Darklake
+Debir
+Diaspar
 Din-Kop
+Dunis
 Endymion
 Exota Terminor
 Farrobana
@@ -36,6 +40,7 @@ Harko
 Hopther
 Hunnak
 Isighat
+Jassaccanda
 Kallriiluey
 Kantrov
 Keats
@@ -48,6 +53,7 @@ Leskyt
 Lordovien
 Ludor
 Lumain
+Lys
 Makkathran
 Mal-Dagmon
 Mantagir
@@ -68,6 +74,7 @@ Orbana
 Orilla
 Otoh Gunga
 Pailkad
+Peor
 Pike City
 Port Romance
 Puhit
