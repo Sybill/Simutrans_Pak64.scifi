@@ -1,0 +1,167 @@
+# Simutrans pak64.SciFi texts
+PROP_FONT_FILE
+Prop-Latin1.bdf
+# Font for use with Ironbite only
+#varka-clean-latin-1-11.bdf
+#
+ROADTOOLS
+Hoverroad tools
+MAGLEVTOOLS
+Powerbeam tools
+RAILTOOLS
+Tube rail tools
+SHIPTOOLS
+Shipping tools
+AIRTOOLS
+Airport tools
+remove roads
+remove hoverroad
+Build road depot
+build hoverroad depot
+remove maglev tracks
+remove powerbeam
+Build maglev depot
+build powerbeam depot
+remove tracks
+remove tube rail
+Build train depot
+build tube rail depot
+Build ship depot
+build ship depot
+#
+# building
+#
+00_CITY
+Townhall
+res_01
+small residential house
+res_02
+small residential house with parking lot
+res_03
+medium residential complex
+res_04
+medium-sized residential tower
+res_06
+residential center
+res_08
+large residential tower
+res_10
+residential house with garden
+res_12
+luxury residential tower
+com_01
+small office building
+com_02
+holocinema
+com_carree_01
+restaurant and commercial building
+com_03
+hovertaxis
+ind_01
+liquid container
+ind_02
+transformer
+ind_03
+energy crystal
+ind_04
+coil
+tron_cube
+AI cube
+#
+# vehicle
+#
+hoverbus
+hoverbus
+parcel mobile
+parcel mobile
+passenger boat
+passenger boat
+Powerbeam_Glider
+powerbeam glider
+Glider_Waggon
+glider waggon
+Saegge_Speed_Glider
+Saegge speed glider
+Saegge_Speed_Glider_Waggon
+Saegge speed glider waggon
+tube lok
+tube lok
+tube waggon
+tube waggon
+parcel waggon
+parcel waggon
+#
+# Strecken
+#
+hover_road
+hoverroad
+city_road
+cityroad
+Hoverbridge
+hoverbridge
+tunnel hoverroad
+tunnel hoverroad
+Busstop
+busstop
+parcel stop
+parcel stop
+hoverroad depot
+hoverroad depot
+channel
+channel
+tunnel channel
+tunnel channel
+shipstop
+shipstop
+Hafen
+harbour
+ship depot
+ship depot
+ship depot EW
+ship depot
+power beam
+power beam
+power beam elevated
+power beam elevated
+powerbeam bridge
+powerbeam bridge
+Powerbeam Station
+powerbeam station
+Powerbeam-depot
+powerbeam depot
+Signals
+powerbeam signal
+tube_rail
+tube rail
+Tube_bridge
+tube rail bridge
+Tube Rail Station
+tube rail station
+tuberail-depot
+tube rail depot
+tube_signal
+tube rail signal
+#
+# plants
+#
+Feather Tree
+feather tree
+Sukkulus_01
+brown sukkulus
+Sukkulus_02
+green sukkulus
+#
+# goods
+#
+Post
+Parcel
+#
+# pedestrians
+#
+Humanoid 01
+humanoid
+Humanoid 02
+humanoid
+Humanoid 03
+humanoid
+#

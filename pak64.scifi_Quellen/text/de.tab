@@ -1,0 +1,189 @@
+# Simutrans pak64.SciFi Texte
+PROP_FONT_FILE
+Prop-Latin1.bdf
+# Font für die Benutzung mit IronBite
+#varka-clean-latin-1-11.bdf
+#
+# Allgemeine Bezeichnungen - Benutzeroberfläche
+#
+industrial building
+Industrieanlage
+residential house
+Wohnhaus
+shops and stores
+Gewerbegebäude
+ROADTOOLS
+Schwebstraßenbau
+MAGLEVTOOLS
+Kraftstrahlbau
+RAILTOOLS
+Röhrenbahnbau
+remove roads
+Schwebstraße abreißen
+Build road depot
+Schwebstraßendepot bauen
+remove maglev tracks
+Kraftstrahl abreißen
+Build maglev depot
+Kraftstrahldepot bauen
+remove tracks
+Röhrenbahn abreißen
+Build train depot
+Röhrenbahndepot bauen
+Build ship depot
+Schiffsdepot bauen
+#
+# Gebäude
+#
+00_CITY
+Rathaus
+Embassy of Arkon
+Arkonidische Botschaft
+Blues Embassy 
+Botschaft der Jülziish
+Stargate
+Sternentor\n\nermöglicht schnelle Reisen zu anderen Planeten
+Shrike Memorial
+Shrike Denkmal\n\nDornenbaum, aufgestellt von den letzten Gläubigen der Kirche des Shrike
+small waiting hall
+kleine Wartehalle
+medium waiting hall
+mittlere Wartehalle
+large waiting hall
+große Wartehalle
+small freight hall
+kleine Frachthalle
+large freight hall
+große Frachthalle
+res_01
+kleines Wohnhaus
+res_02
+kleines Wohnhaus mit Parkplatz
+res_03
+mittlerer Wohnkomplex
+res_04
+mittelgroßer Wohnturm
+res_06
+Wohncenter
+res_08
+großer Wohnturm
+res_10
+Wohnhochhaus mit Park
+res_12
+luxuriöses Wohnhochhaus
+com_01
+kleines Bürogebäude
+com_02
+Holokino
+com_carree_01
+Restaurant- und Geschäftshaus
+com_03
+Taxihof
+ind_01
+Flüssigkeitsbehälter
+ind_02
+Transformator
+ind_03
+Energiekristall\n\nSpeichert Hyperenergie und kann sie gezielt wieder abgeben.
+ind_04
+Spule
+tron_cube
+KI Würfel\n\nKünstliche Intelligenzen steuern und überwachen die industriellen Abläufe.
+#
+# Fahrzeuge
+#
+hoverbus
+Schwebebus
+parcel mobile
+Pakettransporter
+passenger boat
+Passagierschiff
+Powerbeam_Glider
+Kraftstrahlgleiter
+Glider_Waggon
+Gleiterwagen
+Saegge_Speed_Glider
+Saegge-Expressgleiter
+Saegge_Speed_Glider_Waggon
+Saegge-Expresswagen
+tube lok
+Röhrenbahn Steuerkapsel
+tube waggon
+Röhrenbahn Passagierwagen
+parcel waggon
+Röhrenbahn Paketwagen
+#
+# Strecken und Zubehör
+#
+hover_road
+Schwebstraße
+city_road
+Stadtschwebstraße
+Hoverbridge
+Schwebstraßenbrücke
+tunnel hoverroad
+Schwebstraßentunnel
+Busstop
+Bushaltestelle
+parcel stop
+Paketstation
+hoverroad depot
+Schwebstraßendepot
+channel
+Kanal
+tunnel channel
+Kanaltunnel
+shipstop
+Kanalhafen
+Hafen
+Hafen
+ship depot
+Schiffsdepot
+ship depot EW
+Schiffsdepot
+power beam
+Kraftstrahl
+power beam elevated
+Kraftstrahl erhöht
+powerbeam bridge
+Kraftstrahlbrücke
+Powerbeam Station
+Kraftstrahlstation
+Powerbeam-depot
+Kraftstrahldepot
+Signals
+Kraftstrahlsignal
+tube_rail
+Röhrenbahn
+Tube_bridge
+Röhrenbahnbrücke
+Tube Rail Station
+Röhrenbahnhof
+tuberail-depot
+Röhrenbahndepot
+tube_signal
+Röhrenbahnsignal
+#
+# Pflanzen
+#
+Feather Tree
+Federbaum
+Sukkulus_01
+Brauner Sukkulus
+Sukkulus_02
+Grüner Sukkulus
+#
+# Waren
+#
+Post
+Pakete
+#
+# Fussgänger
+#
+Humanoid 01
+Humanoid
+Humanoid 02
+Humanoid
+Humanoid 03
+Humanoid
+#

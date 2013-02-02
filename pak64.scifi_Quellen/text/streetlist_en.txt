@@ -1,0 +1,114 @@
+%1$s Adama Road %2$s
+%1$s Agathon Street %2$s
+%1$s Altaira Gardens %2$s
+%1$s Alvin Street %2$s
+%1$s Amtor Avenue %2$s
+%1$s Andorpark %2$s
+%1$s Aramintastreet %2$s
+%1$s Anominesquare %2$s
+%1$s Arthur Dent Street %2$s
+%1$s Baltar Square %2$s
+%1$s Banir Avenue %2$s
+%1$s Barsoom Boulevard %2$s
+%1$s Black Hole Square %2$s
+%1$s Blerontin Square %2$s
+%1$s Bolfass Road %2$s
+%1$s Borgstreet %2$s
+%1$s Bowmansquare %2$s
+%1$s Bronzan Concourse %2$s
+%1$s Buck Rodgers Street %2$s
+%1$s Cappinvalley %2$s
+%1$s Captain's Corner %2$s
+%1$s Caspak Boulevard %2$s
+%1$s Chani Road %2$s
+%1$s Chessile Street %2$s
+%1$s Chewbacca Lane %2$s
+%1$s Christopher Pike Street %2$s
+%1$s Clara Clayton Street %2$s
+%1$s Corrinoplace %2$s
+%1$s Drazimarket %2$s
+%1$s Dr. Emmett Brown Place %2$s
+%1$s Duncan Idaho Street %2$s
+%1$s Dylan Hunt Centre %2$s
+%1$s Elarian Trail %2$s
+%1$s Eternity Road %2$s
+%1$s Evermore %2$s
+%1$s Ferengi Market %2$s
+%1$s Flash Gordon Street %2$s
+%1$s Foundationsquare %2$s
+%1$s Future Avenue %2$s
+%1$s Galactica Road %2$s
+%1$s Galasol Strip %2$s
+%1$s Han Solo Street %2$s
+%1$s High Angel Square %2$s
+%1$s Holowan Terrace %2$s
+%1$s Inigohall %2$s
+%1$s Jaaruls Street %2$s
+%1$s James T. Kirk Place %2$s
+%1$s Jedi Gardens %2$s
+%1$s Jonathan E. Arena %2$s
+%1$s Kelvinsquare %2$s
+%1$s Kenobi Cross %2$s
+%1$s Kerner Plaza %2$s
+%1$s Kobol Park %2$s
+%1$s Krellstreet %2$s
+%1$s Laura Roslin Avenue %2$s
+%1$s Leovinus Place %2$s
+%1$s Leto Valley %2$s
+%1$s Lipartian Way %2$s
+%1$s Living Dream Lane %2$s
+%1$s Princess Leia Park %2$s
+%1$s Marty McFly Lane %2$s
+%1$s Marvin's Place %2$s
+%1$s Medway Avenue %2$s
+%1$s Meina Gladstone Place %2$s
+%1$s Montwin %2$s
+%1$s Moonlight Centre %2$s
+%1$s Morbiusgate %2$s
+%1$s Nettie Street %2$s
+%1$s Omega Drive %2$s
+%1$s Palpatine Boulevard %2$
+%1$s Pontrin %2$s
+%1$s Raiel Park %2$s
+%1$s Ralmathen Corridor %2$s
+%1$s Riddick's End %2$s
+%1$s Rimmer's Alley %2$s
+%1$s Rryatt Trail %2$s
+%1$s Sarekstreet %2$s
+%1$s Scriv Street %2$s
+%1$s Seldonstreet %2$s
+%1$s Setting Sun Avenue %2$s
+%1$s Shadowlane %2$s
+%1$s Sheridanstreet %2$s
+%1$s Silenus Park %2$s
+%1$s Sinclairgate %2$s
+%1$s Skylord Gardens %2$s
+%1$s Sky Ramp %2$s
+%1$s Skywalker Hill %2$s
+%1$s Slipstream Avenue %2$s
+%1$s Songoquin Street %2$s
+%1$s Starbuck Place %2$s
+%1$s Stardustroad %2$s
+%1$s Stilgarstreet %2$s
+%1$s Taelon Alley %2$s
+%1$s Tarasin Way %2$s
+%1$s Taylorstreet %2$s
+%1$s Teligi Road %2$s
+%1$s Terk Street %2$s
+%1$s Terminus Hill %2$s
+%1$s The Arch %2$s
+%1$s The Doctor's Place %2$s
+%1$s Timeline Avenue %2$s
+%1$s Timelord Alley %2$s
+%1$s Tinegris Street %2$s
+%1$s Universe Lane %2$s
+%1$s Vader Path %2$s
+%1$s Valen's Gate %2$s
+%1$s Vogon Avenue %2$s
+%1$s Vulcan Square %2$s
+%1$s Waterwalker Place %2$s
+%1$s Winn Adami Road %2$s
+%1$s Wookie Way %2$s
+%1$s Wozwashi Street %2$s
+%1$s Yarlan Zey Park %2$s
+%1$s Yoda Square %2$s
