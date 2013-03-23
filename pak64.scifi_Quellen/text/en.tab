@@ -107,6 +107,8 @@ Busstop
 busstop
 parcel stop
 parcel stop
+Frachthalt
+freight stop
 hoverroad depot
 hoverroad depot
 channel
@@ -157,6 +159,8 @@ green sukkulus
 #
 Post
 Parcel
+CATEGORY_01
+fresh produce
 #
 # pedestrians
 #

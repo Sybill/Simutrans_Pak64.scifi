@@ -98,6 +98,8 @@ hoverbus
 Schwebebus
 parcel mobile
 Pakettransporter
+freight mobile
+Frachttransporter
 passenger boat
 Passagierschiff
 Powerbeam_Glider
@@ -129,6 +131,8 @@ Busstop
 Bushaltestelle
 parcel stop
 Paketstation
+Frachthalt
+Frachthalt
 hoverroad depot
 Schwebstraßendepot
 channel
@@ -179,6 +183,17 @@ Grüner Sukkulus
 #
 Post
 Pakete
+tulaberries
+Tulabeeren
+CATEGORY_01
+Frischwaren
+#
+# Industrie
+#
+restaurant
+Restaurant
+tulafarm
+Tulafarm
 #
 # Fussgänger
 #

@@ -71,6 +71,7 @@
 %1$s Nakkenallee %2$s
 %1$s Narnwinkel %2$s
 %1$s Netzgängerweg %2$s
+%1$s Orbiterschanze %2$s
 %1$s Oriongasse %2$s
 %1$s Novapfad %2$s
 %1$s Paunarokamp %2$s

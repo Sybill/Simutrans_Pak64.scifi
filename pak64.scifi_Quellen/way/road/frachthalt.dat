@@ -1,0 +1,16 @@
+Obj=building
+Name=Frachthalt
+type=stop
+waytype=road
+intro_year=1
+noconstruction=1
+enables_ware=1
+NoInfo=1
+Dims=1,1,2
+level=1
+BackImage[0][0][0][0][0][0]=frachthalt.0.0
+BackImage[1][0][0][0][0][0]=frachthalt.0.1
+BackImage[0][0][0][0][0][1]=frachthalt.1.0
+BackImage[1][0][0][0][0][1]=frachthalt.1.1
+icon=> frachthalt.2.0
+cursor=frachthalt.2.1
