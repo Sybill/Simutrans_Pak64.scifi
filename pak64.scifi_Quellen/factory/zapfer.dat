@@ -1,0 +1,17 @@
+Obj=factory
+name=Hyperraumzapferkraftwerk
+copyright=Sybill
+DistributionWeight=100
+pax_level=20
+Location=Land
+Productivity=450
+Range=120
+MapColor=10
+needs_ground=0
+BackImage[0][0][0][0][0][0]=zapfer.1.0
+BackImage[0][0][0][0][0][1]=zapfer.1.1
+BackImage[0][0][0][1][0][0]=zapfer.0.0
+BackImage[0][0][0][1][0][1]=zapfer.0.1
+animation_time=600
+BackImage[0][0][0][1][1][0]=zapfer.2.0
+BackImage[0][0][0][1][1][1]=zapfer.2.1
