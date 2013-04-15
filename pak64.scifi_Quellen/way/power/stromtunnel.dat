@@ -1,0 +1,27 @@
+Obj=tunnel
+Name=stromtunnel
+copyright=Sybill
+cost=3000
+maintenance=300
+intro_year = 1
+waytype=power
+
+icon=> stromtunnel.1.2
+cursor=stromtunnel.1.3
+FrontImage[N][0]=stromtunnel.0.0
+BackImage[N][0]=-
+FrontImage[S][0]=stromtunnel.0.2
+BackImage[S][0]=-
+FrontImage[E][0]=stromtunnel.0.3
+BackImage[E][0]=-
+FrontImage[W][0]=stromtunnel.0.1
+BackImage[W][0]=-
+
+FrontImage[N][1]=stromtunnel.2.0
+BackImage[N][1]=-
+FrontImage[S][1]=stromtunnel.2.2
+BackImage[S][1]=-
+FrontImage[E][1]=stromtunnel.2.3
+BackImage[E][1]=-
+FrontImage[W][1]=stromtunnel.2.1
+BackImage[W][1]=-

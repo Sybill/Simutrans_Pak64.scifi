@@ -170,6 +170,13 @@ Röhrenbahndepot
 tube_signal
 Röhrenbahnsignal
 #
+# Strom
+#
+PowerBridge
+Kabelbrücke
+stromtunnel
+Kabeltunnel
+#
 # Pflanzen
 #
 Feather Tree

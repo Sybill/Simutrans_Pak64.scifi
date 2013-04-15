@@ -93,7 +93,7 @@ tube waggon
 parcel waggon
 parcel waggon
 #
-# Strecken
+# way
 #
 hover_road
 hoverroad
@@ -145,6 +145,13 @@ tuberail-depot
 tube rail depot
 tube_signal
 tube rail signal
+#
+# electricity
+#
+PowerBridge
+power bridge
+stromtunnel
+power tunnel
 #
 # plants
 #
