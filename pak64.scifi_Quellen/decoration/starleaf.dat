@@ -1,0 +1,16 @@
+Obj=tree
+Name=starleaf
+copyright=HjM
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+climates=desert, tropic
+seasons=1
+DistributionWeight=1
+#Image[Age][Season]
+Image[0][0]=./starleaf.0.0
+Image[1][0]=./starleaf.0.1
+Image[2][0]=./starleaf.0.2
+Image[3][0]=./starleaf.0.3
+Image[4][0]=./starleaf.0.4

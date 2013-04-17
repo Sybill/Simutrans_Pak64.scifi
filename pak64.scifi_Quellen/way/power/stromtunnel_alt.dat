@@ -5,7 +5,6 @@ cost=3000
 maintenance=300
 intro_year = 1
 waytype=power
-way=underground_powerline
 
 icon=> stromtunnel.1.2
 cursor=stromtunnel.1.3
