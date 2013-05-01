@@ -33,6 +33,8 @@ build ship depot
 #
 00_CITY
 Townhall
+Erschaffer_Denkmal
+Monument for the Creator
 Plaza
 Foundation Plaza
 res_01
@@ -92,6 +94,10 @@ tube waggon
 tube waggon
 parcel waggon
 parcel waggon
+freight lok
+freight lok
+freight waggon
+freight waggon
 #
 # way
 #
@@ -145,6 +151,8 @@ tuberail-depot
 tube rail depot
 tube_signal
 tube rail signal
+Frachthalt_Roehrenbahn
+tube rail freight stop
 #
 # electricity
 #

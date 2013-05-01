@@ -2,7 +2,7 @@ obj=bridge
 name=PowerBridge
 waytype=power
 cost=20000
-maintenance=400
+maintenance=200
 max_lenght=6
 intro_year=1
 

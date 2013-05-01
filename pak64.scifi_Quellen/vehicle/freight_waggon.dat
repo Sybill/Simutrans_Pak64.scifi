@@ -1,0 +1,35 @@
+obj=vehicle
+name=freight waggon
+copyright=Sybill
+intro_year=1
+draw_as_ding=1
+runningcost=35
+cost=45000
+weight=12
+speed=160
+waytype=track
+freight=tulaberries
+payload=6
+length=8
+Constraint[prev][0]=freight lok
+Constraint[prev][1]=freight waggon
+Constraint[next][0]=freight waggon
+Constraint[next][1]=none
+EmptyImage[S]=freight_waggon.0.0
+EmptyImage[E]=freight_waggon.0.1 	
+EmptyImage[SE]=freight_waggon.0.2 	
+EmptyImage[SW]=freight_waggon.0.3
+EmptyImage[N]=freight_waggon.0.4
+EmptyImage[W]=freight_waggon.0.5
+EmptyImage[NW]=freight_waggon.0.6	
+EmptyImage[NE]=freight_waggon.0.7
+
+FreightImage[S]=freight_waggon.1.0	
+FreightImage[E]=freight_waggon.1.1
+FreightImage[SE]=freight_waggon.1.2 	
+FreightImage[SW]=freight_waggon.1.3	
+FreightImage[N]=freight_waggon.1.4
+FreightImage[W]=freight_waggon.1.5 	
+FreightImage[NW]=freight_waggon.1.6
+FreightImage[NE]=freight_waggon.1.7
+

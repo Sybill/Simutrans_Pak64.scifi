@@ -1,6 +1,6 @@
 Obj=ground
 Name=Outside
-copyright=pak64.SciFi V0.12
+copyright=pak64.SciFi V0.2
 # hangtyp * animation
 Image[0][0]=texturen.1.5
 

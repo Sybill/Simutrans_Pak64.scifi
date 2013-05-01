@@ -77,6 +77,9 @@ electric_promille = 330
 # (100% will give nearly the same results as crossconnect_factories=1)
 crossconnect_factories_percentage = 43
 
+# true if transformers are allowed underground (default)
+allow_underground_transformers = 0
+
 factory_spacing = 10
  
 # with this switch on (default), overcrowded factories will not recieve goods any more

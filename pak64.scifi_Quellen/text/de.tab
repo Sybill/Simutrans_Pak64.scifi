@@ -47,6 +47,8 @@ Stargate
 Sternentor\n\nermöglicht schnelle Reisen zu anderen Planeten
 Shrike Memorial
 Shrike Denkmal\n\nDornenbaum, aufgestellt von den letzten Gläubigen der Kirche des Shrike
+Erschaffer_Denkmal
+Denkmal für den Erschaffer
 small waiting hall
 kleine Wartehalle
 medium waiting hall
@@ -111,11 +113,15 @@ Saegge-Expressgleiter
 Saegge_Speed_Glider_Waggon
 Saegge-Expresswagen
 tube lok
-Röhrenbahn Steuerkapsel
+Steuerkapsel
 tube waggon
-Röhrenbahn Passagierwagen
+Passagierwagen
 parcel waggon
-Röhrenbahn Paketwagen
+Paketwagen
+freight lok
+Frachtsteuerkapsel
+freight waggon
+Frachtwagen
 #
 # Strecken und Zubehör
 #
@@ -169,9 +175,13 @@ tuberail-depot
 Röhrenbahndepot
 tube_signal
 Röhrenbahnsignal
+Frachthalt_Roehrenbahn
+Röhrenbahn Frachthalt
 #
 # Strom
 #
+Powerline
+Stromkabel
 PowerBridge
 Kabelbrücke
 stromtunnel
@@ -185,6 +195,8 @@ Sukkulus_01
 Brauner Sukkulus
 Sukkulus_02
 Grüner Sukkulus
+starleaf
+Sternblatt
 #
 # Waren
 #

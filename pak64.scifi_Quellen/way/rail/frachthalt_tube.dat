@@ -1,0 +1,17 @@
+Obj=building
+Name=Frachthalt_Roehrenbahn
+type=stop
+waytype=track
+intro_year=1
+noconstruction=1
+enables_ware=1
+enables_post=1
+NoInfo=1
+Dims=1,1,2
+level=1
+BackImage[0][0][0][0][0][0]=frachthalt_tube.0.0
+BackImage[1][0][0][0][0][0]=frachthalt_tube.0.1
+BackImage[0][0][0][0][0][1]=frachthalt_tube.1.0
+BackImage[1][0][0][0][0][1]=frachthalt_tube.1.1
+icon=> frachthalt_tube.2.0
+cursor=frachthalt_tube.2.1
