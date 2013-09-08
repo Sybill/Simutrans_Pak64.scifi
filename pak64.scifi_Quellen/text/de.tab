@@ -104,6 +104,8 @@ freight mobile
 Frachttransporter
 passenger boat
 Passagierschiff
+Frachtschiff
+Frachtschiff
 Powerbeam_Glider
 Kraftstrahlgleiter
 Glider_Waggon
@@ -147,8 +149,12 @@ tunnel channel
 Kanaltunnel
 shipstop
 Kanalhafen
+freightshipstop
+Frachtschiffhalt
 Hafen
 Hafen
+Frachthafen
+Frachthafen
 ship depot
 Schiffsdepot
 ship depot EW

@@ -30,6 +30,7 @@
 %1$s Crestpromenade %2$s
 %1$s Delennstraﬂe %2$s
 %1$s Dominionweg %2$s
+%1$s Douc Langur Platz %2$s
 %1$s Drazimarkt %2$s
 %1$s Druufonriede %2$s
 %1$s Edeardgasse %2$s

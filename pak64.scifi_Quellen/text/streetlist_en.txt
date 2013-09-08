@@ -18,6 +18,7 @@
 %1$s Bronzan Concourse %2$s
 %1$s Buck Rodgers Street %2$s
 %1$s Cappinvalley %2$s
+%1$s Captain Future Square %2$s
 %1$s Captain's Corner %2$s
 %1$s Caspak Boulevard %2$s
 %1$s Chani Road %2$s

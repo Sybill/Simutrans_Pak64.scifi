@@ -80,6 +80,8 @@ parcel mobile
 parcel mobile
 passenger boat
 passenger boat
+Frachtschiff
+freight ship
 Powerbeam_Glider
 powerbeam glider
 Glider_Waggon
@@ -122,9 +124,13 @@ channel
 tunnel channel
 tunnel channel
 shipstop
-shipstop
+passenger quay
+freightshipstop
+goods quay
 Hafen
 harbour
+Frachthafen
+goods dock
 ship depot
 ship depot
 ship depot EW

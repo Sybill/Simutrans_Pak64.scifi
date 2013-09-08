@@ -1,0 +1,18 @@
+Obj=building
+Name=freightshipstop
+type=stop
+waytype=water
+NoInfo=1
+NoConstruction=1
+enables_ware=1
+enables_post=1
+icon=> shipstop_freight.2.0
+cursor=shipstop_freight.2.1
+level=1
+intro_year=1
+Dims=1,1,2
+BackImage[0][0][0][0][0][0]=shipstop_freight.0.0
+BackImage[1][0][0][0][0][0]=shipstop_freight.0.1
+BackImage[0][0][0][0][0][1]=shipstop_freight.1.0
+BackImage[1][0][0][0][0][1]=shipstop_freight.1.1
+
